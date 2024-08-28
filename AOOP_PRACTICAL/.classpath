@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 21.0.2 [21.0.2]">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Week-2_PostLab"/>
+	<classpathentry kind="src" path="Week-3_InLab"/>
+	<classpathentry kind="src" path="Week-3_PostLab"/>
+	<classpathentry kind="src" path="Week-4_InLab"/>
+	<classpathentry kind="src" path="Week-5_InLab"/>
+	<classpathentry kind="src" path="Week-5PostLab"/>
+	<classpathentry kind="src" path="Week-6_InLab"/>
+	<classpathentry kind="src" path="Week-6_PostLab1"/>
+	<classpathentry kind="src" path="Week-6_PostLab2"/>
+	<classpathentry kind="src" path="Week-6_PostLab3"/>
+	<classpathentry kind="src" path="Week-6_PostLab4"/>
+	<classpathentry kind="src" path="Week-6_PostLab5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

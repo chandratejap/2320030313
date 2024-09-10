@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Project {
-	requires junit;
-}

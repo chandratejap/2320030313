@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Week1_PostLab {
+module Logger1 {
 }

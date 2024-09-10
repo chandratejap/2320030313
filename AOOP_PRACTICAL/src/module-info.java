@@ -4,5 +4,5 @@
 /**
  * 
  */
-module AOOP_PRACTICAL {
+module Week1_PostLab {
 }
